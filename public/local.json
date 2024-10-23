@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "name": "Margherita Pizza",
+      "description": "Classic Italian pizza topped with fresh mozzarella, tomatoes, and basil.",
+      "ingredients": ["Pizza dough", "Mozzarella", "Tomato sauce", "Basil", "Olive oil"],
+      "time": 20,
+      "calories": 300,
+      "food_img": "https://i.ibb.co.com/wCh4nFv/margherita-pizza-with-slices-lemon-wooden-tray.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Caesar Salad",
+      "description": "Crispy romaine lettuce tossed with Caesar dressing, croutons, and Parmesan cheese.",
+      "ingredients": ["Romaine lettuce", "Caesar dressing", "Croutons", "Parmesan", "Anchovies"],
+      "time": 15,
+      "calories": 150,
+      "food_img": "https://i.ibb.co.com/x3pvB7G/6065.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Spaghetti Carbonara",
+      "description": "Pasta coated with a creamy sauce made from eggs, Parmesan, and pancetta.",
+      "ingredients": ["Spaghetti", "Pancetta", "Egg yolks", "Parmesan", "Black pepper"],
+      "time": 25,
+      "calories": 400,
+      "food_img": "https://i.ibb.co.com/1Gd0h32/2471.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Avocado Toast",
+      "description": "Toasted bread topped with mashed avocado and a sprinkle of chili flakes.",
+      "ingredients": ["Bread", "Avocado", "Salt", "Chili flakes", "Lemon juice"],
+      "time": 10,
+      "calories": 250,
+      "food_img": "https://i.ibb.co.com/bNwJ60V/2148891767.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Chicken Curry",
+      "description": "Rich and flavorful chicken cooked in a creamy spiced curry sauce.",
+      "ingredients": ["Chicken", "Coconut milk", "Onions", "Curry powder", "Garlic"],
+      "time": 40,
+      "calories": 450,
+      "food_img": "https://i.ibb.co.com/G2wzQ2v/20777.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Sushi Rolls",
+      "description": "Rice rolls filled with fresh fish, avocado, and cucumber, wrapped in seaweed.",
+      "ingredients": ["Sushi rice", "Nori", "Salmon", "Avocado", "Cucumber"],
+      "time": 35,
+      "calories": 300,
+      "food_img": "https://i.ibb.co.com/xYbfY7R/14242.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Tacos al Pastor",
+      "description": "Mexican street tacos filled with marinated pork and topped with pineapple and cilantro.",
+      "ingredients": ["Tortillas", "Pork", "Pineapple", "Cilantro", "Onions"],
+      "time": 30,
+      "calories": 280,
+      "food_img": "https://i.ibb.co.com/xL1DH10/2151535325.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Berry Smoothie Bowl",
+      "description": "A thick smoothie topped with fresh berries, granola, and seeds.",
+      "ingredients": ["Berries", "Banana", "Yogurt", "Granola", "Chia seeds"],
+      "time": 10,
+      "calories": 200,
+      "food_img": "https://i.ibb.co.com/cwNR46r/34167.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Beef Burger",
+      "description": "Juicy beef patty served in a bun with lettuce, tomato, and cheese.",
+      "ingredients": ["Beef patty", "Burger bun", "Lettuce", "Tomato", "Cheese"],
+      "time": 20,
+      "calories": 600,
+      "food_img": "https://i.ibb.co.com/C76XXyj/7508.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Chocolate Brownie",
+      "description": "Rich and gooey chocolate brownie topped with a dusting of powdered sugar.",
+      "ingredients": ["Chocolate", "Butter", "Sugar", "Flour", "Eggs"],
+      "time": 35,
+      "calories": 350,
+      "food_img": "https://i.ibb.co.com/xfLnfmX/brownie-wooden-table-with-fork-country-style-1235831-298834.jpg"
+    }
+  ]
+  
