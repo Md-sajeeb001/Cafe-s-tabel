@@ -22,7 +22,7 @@ const Hearder = () => {
             </div>
             <ul
               tabIndex={0}
-              className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-6 shadow lg:gap-6 gap-4 text-lg font-medium"
+              className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52  shadow lg:gap-6 text-lg font-medium"
             >
               <li className="btn bg-white border-none shadow-none">Home</li>
               <li className="btn bg-white border-none shadow-none">Recipes</li>
@@ -30,7 +30,7 @@ const Hearder = () => {
               <li className="btn bg-white border-none shadow-none">Search</li>
             </ul>
           </div>
-          <a className=" lg:text-2xl md:text-xl text-lg lg:font-bold font-medium">Recipe Calories</a>
+          <a className=" lg:text-2xl md:text-xl text-lg lg:font-bold font-m">Recipe Calories</a>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1 gap-5 text-lg font-medium">
